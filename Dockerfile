@@ -10,5 +10,3 @@ RUN apt-get install pdftk -y \
 COPY entrypoint.sh /entrypoint.sh
 
 ENTRYPOINT ["/entrypoint.sh"]
-
-CMD ["", ""]
