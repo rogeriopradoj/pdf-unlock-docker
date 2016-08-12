@@ -1,6 +1,6 @@
 # pdf-unlock-docker
 
-[![](https://imagelayers.io/badge/rogeriopradoj/pdf-unlock:latest.svg)](https://imagelayers.io/?images=rogeriopradoj/pdf-unlock:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/rogeriopradoj/pdf-unlock.svg)](https://microbadger.com/images/rogeriopradoj/pdf-unlock "Get your own image badge on microbadger.com"
 
 rogeriopradoj/pdf-unlock-docker
 
