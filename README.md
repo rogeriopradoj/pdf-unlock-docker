@@ -1,6 +1,7 @@
 # pdf-unlock-docker
 
 [![](https://images.microbadger.com/badges/image/rogeriopradoj/pdf-unlock.svg)](https://microbadger.com/images/rogeriopradoj/pdf-unlock "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/rogeriopradoj/pdf-unlock.svg)](http://microbadger.com/images/rogeriopradoj/pdf-unlock "Get your own version badge on microbadger.com")
 
 rogeriopradoj/pdf-unlock-docker
 
